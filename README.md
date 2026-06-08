@@ -81,8 +81,8 @@ Raw tweet data (Tweepy)
 ## 📁 Repository Structure
 
 ```
-├── Mineria_de_Datos.ipynb     # Full analysis notebook (Google Colab)
-└── data/                      # Not included due to Twitter API terms
+├── data_mining.ipynb         # Full analysis notebook (Google Colab)
+└── data/                     # Not included due to Twitter API terms
     ├── elonmusk_tweets.txt
     ├── billgates_tweets.txt
     └── mayoredlee_tweets.txt
